@@ -4,7 +4,7 @@ Very Pleased to update this Repository on the First Phase of our project, which 
 ## Methadology
 ![Proposed Model Architecture](Model.png)
 
-[Detailed Report of Present Work](https://drive.google.com/file/d/13BXuDneqpjd_us7REzVd3sojpb0wwTRp/view?usp=drive_link)
+[Detailed Report of Present Work](https://drive.google.com/file/d/1GctHpdshjCFqqE--B99raScEd8VchKKg/view?usp=drive_link)
 ### Clone the Repository
 ```
 git clone git@github.com:BhavikShangari/DS250_Project.git
